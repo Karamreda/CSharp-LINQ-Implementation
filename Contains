@@ -1,0 +1,99 @@
+## 40 LINQ Method Implementation
+
+
+
+## 1. Filtering Operators
+Responsible for filtering data based on conditions.
+
+- Where()
+- OfType()
+
+---
+
+## 2. Projection Operators
+Used to transform elements into another form.
+
+- Select()
+- SelectMany()
+
+---
+
+## 3. Element Operators
+Used to retrieve specific elements from collections.
+
+- First()
+- FirstOrDefault()
+- Last()
+- LastOrDefault()
+- Single()
+- SingleOrDefault()
+
+---
+
+## 4. Aggregation Operators
+Used to perform calculations on collections.
+
+- Count()
+- Sum()
+- Average()
+- Min()
+- Max()
+- Aggregate()
+
+---
+
+## 5. Partitioning Operators
+Used to divide collections and retrieve specific parts.
+
+- Take()
+- TakeLast()
+- TakeWhile()
+- Skip()
+- SkipLast()
+- SkipWhile()
+
+---
+
+## 6. Quantifier Operators
+Used to check conditions on collections.
+
+- Any()
+- All()
+- Contains()
+
+---
+
+## 7. Ordering Operators
+Used to sort and reorder collections.
+
+- OrderBy()
+- OrderByDescending()
+- ThenBy()
+- ThenByDescending()
+- Reverse()
+
+---
+
+## 8. Set Operators
+Used to perform set operations between collections.
+
+- Distinct()
+- Union()
+- Intersect()
+- Except()
+
+---
+
+## 9. Equality Operators
+Used to compare collections.
+
+- SequenceEqual()
+
+---
+
+## 10. Generation Operators
+Used to generate collections.
+
+- Range()
+
+numbers.Where(x => x > 5);
