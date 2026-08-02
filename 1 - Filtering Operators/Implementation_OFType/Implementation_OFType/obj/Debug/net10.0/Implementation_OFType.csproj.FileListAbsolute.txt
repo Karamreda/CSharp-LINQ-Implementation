@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_OFType\Implementation_OFType\bin\Debug\net10.0\Implementation_OFType.exe
+C:\Users\m.g\Desktop\Implementation_OFType\Implementation_OFType\bin\Debug\net10.0\Implementation_OFType.deps.json
+C:\Users\m.g\Desktop\Implementation_OFType\Implementation_OFType\bin\Debug\net10.0\Implementation_OFType.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_OFType\Implementation_OFType\bin\Debug\net10.0\Implementation_OFType.dll
+C:\Users\m.g\Desktop\Implementation_OFType\Implementation_OFType\bin\Debug\net10.0\Implementation_OFType.pdb
+C:\Users\m.g\Desktop\Implementation_OFType\Implementation_OFType\obj\Debug\net10.0\Implementation_OFType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_OFType\Implementation_OFType\obj\Debug\net10.0\Implementation_OFType.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_OFType\Implementation_OFType\obj\Debug\net10.0\Implementation_OFType.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_OFType\Implementation_OFType\obj\Debug\net10.0\Implementation_OFType.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_OFType\Implementation_OFType\obj\Debug\net10.0\Implementation_OFType.dll
+C:\Users\m.g\Desktop\Implementation_OFType\Implementation_OFType\obj\Debug\net10.0\refint\Implementation_OFType.dll
+C:\Users\m.g\Desktop\Implementation_OFType\Implementation_OFType\obj\Debug\net10.0\Implementation_OFType.pdb
+C:\Users\m.g\Desktop\Implementation_OFType\Implementation_OFType\obj\Debug\net10.0\Implementation_OFType.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_OFType\Implementation_OFType\obj\Debug\net10.0\ref\Implementation_OFType.dll
