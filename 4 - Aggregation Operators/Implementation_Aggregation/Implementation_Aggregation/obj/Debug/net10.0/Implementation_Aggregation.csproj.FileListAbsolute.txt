@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_Aggregation\Implementation_Aggregation\bin\Debug\net10.0\Implementation_Aggregation.exe
+C:\Users\m.g\Desktop\Implementation_Aggregation\Implementation_Aggregation\bin\Debug\net10.0\Implementation_Aggregation.deps.json
+C:\Users\m.g\Desktop\Implementation_Aggregation\Implementation_Aggregation\bin\Debug\net10.0\Implementation_Aggregation.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_Aggregation\Implementation_Aggregation\bin\Debug\net10.0\Implementation_Aggregation.dll
+C:\Users\m.g\Desktop\Implementation_Aggregation\Implementation_Aggregation\bin\Debug\net10.0\Implementation_Aggregation.pdb
+C:\Users\m.g\Desktop\Implementation_Aggregation\Implementation_Aggregation\obj\Debug\net10.0\Implementation_Aggregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_Aggregation\Implementation_Aggregation\obj\Debug\net10.0\Implementation_Aggregation.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_Aggregation\Implementation_Aggregation\obj\Debug\net10.0\Implementation_Aggregation.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_Aggregation\Implementation_Aggregation\obj\Debug\net10.0\Implementation_Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_Aggregation\Implementation_Aggregation\obj\Debug\net10.0\Implementation_Aggregation.dll
+C:\Users\m.g\Desktop\Implementation_Aggregation\Implementation_Aggregation\obj\Debug\net10.0\refint\Implementation_Aggregation.dll
+C:\Users\m.g\Desktop\Implementation_Aggregation\Implementation_Aggregation\obj\Debug\net10.0\Implementation_Aggregation.pdb
+C:\Users\m.g\Desktop\Implementation_Aggregation\Implementation_Aggregation\obj\Debug\net10.0\Implementation_Aggregation.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_Aggregation\Implementation_Aggregation\obj\Debug\net10.0\ref\Implementation_Aggregation.dll
