@@ -96,4 +96,3 @@ Used to generate collections.
 
 - Range()
 
-numbers.Where(x => x > 5);
