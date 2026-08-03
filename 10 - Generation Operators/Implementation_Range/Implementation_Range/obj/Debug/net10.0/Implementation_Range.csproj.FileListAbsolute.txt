@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_Range\Implementation_Range\bin\Debug\net10.0\Implementation_Range.exe
+C:\Users\m.g\Desktop\Implementation_Range\Implementation_Range\bin\Debug\net10.0\Implementation_Range.deps.json
+C:\Users\m.g\Desktop\Implementation_Range\Implementation_Range\bin\Debug\net10.0\Implementation_Range.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_Range\Implementation_Range\bin\Debug\net10.0\Implementation_Range.dll
+C:\Users\m.g\Desktop\Implementation_Range\Implementation_Range\bin\Debug\net10.0\Implementation_Range.pdb
+C:\Users\m.g\Desktop\Implementation_Range\Implementation_Range\obj\Debug\net10.0\Implementation_Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_Range\Implementation_Range\obj\Debug\net10.0\Implementation_Range.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_Range\Implementation_Range\obj\Debug\net10.0\Implementation_Range.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_Range\Implementation_Range\obj\Debug\net10.0\Implementation_Range.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_Range\Implementation_Range\obj\Debug\net10.0\Implementation_Range.dll
+C:\Users\m.g\Desktop\Implementation_Range\Implementation_Range\obj\Debug\net10.0\refint\Implementation_Range.dll
+C:\Users\m.g\Desktop\Implementation_Range\Implementation_Range\obj\Debug\net10.0\Implementation_Range.pdb
+C:\Users\m.g\Desktop\Implementation_Range\Implementation_Range\obj\Debug\net10.0\Implementation_Range.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_Range\Implementation_Range\obj\Debug\net10.0\ref\Implementation_Range.dll
