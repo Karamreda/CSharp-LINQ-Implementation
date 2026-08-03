@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_Contains\Implementation_Contains\bin\Debug\net10.0\Implementation_Contains.exe
+C:\Users\m.g\Desktop\Implementation_Contains\Implementation_Contains\bin\Debug\net10.0\Implementation_Contains.deps.json
+C:\Users\m.g\Desktop\Implementation_Contains\Implementation_Contains\bin\Debug\net10.0\Implementation_Contains.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_Contains\Implementation_Contains\bin\Debug\net10.0\Implementation_Contains.dll
+C:\Users\m.g\Desktop\Implementation_Contains\Implementation_Contains\bin\Debug\net10.0\Implementation_Contains.pdb
+C:\Users\m.g\Desktop\Implementation_Contains\Implementation_Contains\obj\Debug\net10.0\Implementation_Contains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_Contains\Implementation_Contains\obj\Debug\net10.0\Implementation_Contains.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_Contains\Implementation_Contains\obj\Debug\net10.0\Implementation_Contains.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_Contains\Implementation_Contains\obj\Debug\net10.0\Implementation_Contains.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_Contains\Implementation_Contains\obj\Debug\net10.0\Implementation_Contains.dll
+C:\Users\m.g\Desktop\Implementation_Contains\Implementation_Contains\obj\Debug\net10.0\refint\Implementation_Contains.dll
+C:\Users\m.g\Desktop\Implementation_Contains\Implementation_Contains\obj\Debug\net10.0\Implementation_Contains.pdb
+C:\Users\m.g\Desktop\Implementation_Contains\Implementation_Contains\obj\Debug\net10.0\Implementation_Contains.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_Contains\Implementation_Contains\obj\Debug\net10.0\ref\Implementation_Contains.dll
