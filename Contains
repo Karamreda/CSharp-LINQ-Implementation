@@ -81,6 +81,7 @@ Used to perform set operations between collections.
 - Union()
 - Intersect()
 - Except()
+- Concat() 
 
 ---
 
@@ -95,4 +96,19 @@ Used to compare collections.
 Used to generate collections.
 
 - Range()
+
+---
+
+## 11. Conversion Operators
+Used to convert collections into different collection types.
+
+- ToList()
+- ToArray()
+
+---
+
+## 12. Miscellaneous Operators
+Used for combining sequences.
+
+- Zip()
 
