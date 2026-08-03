@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_Select\Implementation_Select\bin\Debug\net10.0\Implementation_Select.exe
+C:\Users\m.g\Desktop\Implementation_Select\Implementation_Select\bin\Debug\net10.0\Implementation_Select.deps.json
+C:\Users\m.g\Desktop\Implementation_Select\Implementation_Select\bin\Debug\net10.0\Implementation_Select.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_Select\Implementation_Select\bin\Debug\net10.0\Implementation_Select.dll
+C:\Users\m.g\Desktop\Implementation_Select\Implementation_Select\bin\Debug\net10.0\Implementation_Select.pdb
+C:\Users\m.g\Desktop\Implementation_Select\Implementation_Select\obj\Debug\net10.0\Implementation_Select.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_Select\Implementation_Select\obj\Debug\net10.0\Implementation_Select.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_Select\Implementation_Select\obj\Debug\net10.0\Implementation_Select.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_Select\Implementation_Select\obj\Debug\net10.0\Implementation_Select.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_Select\Implementation_Select\obj\Debug\net10.0\Implementation_Select.dll
+C:\Users\m.g\Desktop\Implementation_Select\Implementation_Select\obj\Debug\net10.0\refint\Implementation_Select.dll
+C:\Users\m.g\Desktop\Implementation_Select\Implementation_Select\obj\Debug\net10.0\Implementation_Select.pdb
+C:\Users\m.g\Desktop\Implementation_Select\Implementation_Select\obj\Debug\net10.0\Implementation_Select.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_Select\Implementation_Select\obj\Debug\net10.0\ref\Implementation_Select.dll

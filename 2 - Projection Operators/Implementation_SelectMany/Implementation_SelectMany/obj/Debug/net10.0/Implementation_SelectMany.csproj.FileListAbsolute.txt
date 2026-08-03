@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_SelectMany\Implementation_SelectMany\bin\Debug\net10.0\Implementation_SelectMany.exe
+C:\Users\m.g\Desktop\Implementation_SelectMany\Implementation_SelectMany\bin\Debug\net10.0\Implementation_SelectMany.deps.json
+C:\Users\m.g\Desktop\Implementation_SelectMany\Implementation_SelectMany\bin\Debug\net10.0\Implementation_SelectMany.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_SelectMany\Implementation_SelectMany\bin\Debug\net10.0\Implementation_SelectMany.dll
+C:\Users\m.g\Desktop\Implementation_SelectMany\Implementation_SelectMany\bin\Debug\net10.0\Implementation_SelectMany.pdb
+C:\Users\m.g\Desktop\Implementation_SelectMany\Implementation_SelectMany\obj\Debug\net10.0\Implementation_SelectMany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_SelectMany\Implementation_SelectMany\obj\Debug\net10.0\Implementation_SelectMany.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_SelectMany\Implementation_SelectMany\obj\Debug\net10.0\Implementation_SelectMany.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_SelectMany\Implementation_SelectMany\obj\Debug\net10.0\Implementation_SelectMany.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_SelectMany\Implementation_SelectMany\obj\Debug\net10.0\Implementation_SelectMany.dll
+C:\Users\m.g\Desktop\Implementation_SelectMany\Implementation_SelectMany\obj\Debug\net10.0\refint\Implementation_SelectMany.dll
+C:\Users\m.g\Desktop\Implementation_SelectMany\Implementation_SelectMany\obj\Debug\net10.0\Implementation_SelectMany.pdb
+C:\Users\m.g\Desktop\Implementation_SelectMany\Implementation_SelectMany\obj\Debug\net10.0\Implementation_SelectMany.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_SelectMany\Implementation_SelectMany\obj\Debug\net10.0\ref\Implementation_SelectMany.dll
