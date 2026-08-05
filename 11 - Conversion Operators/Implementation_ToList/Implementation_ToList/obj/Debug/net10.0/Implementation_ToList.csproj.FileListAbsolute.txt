@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_ToList\Implementation_ToList\bin\Debug\net10.0\Implementation_ToList.exe
+C:\Users\m.g\Desktop\Implementation_ToList\Implementation_ToList\bin\Debug\net10.0\Implementation_ToList.deps.json
+C:\Users\m.g\Desktop\Implementation_ToList\Implementation_ToList\bin\Debug\net10.0\Implementation_ToList.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_ToList\Implementation_ToList\bin\Debug\net10.0\Implementation_ToList.dll
+C:\Users\m.g\Desktop\Implementation_ToList\Implementation_ToList\bin\Debug\net10.0\Implementation_ToList.pdb
+C:\Users\m.g\Desktop\Implementation_ToList\Implementation_ToList\obj\Debug\net10.0\Implementation_ToList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_ToList\Implementation_ToList\obj\Debug\net10.0\Implementation_ToList.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_ToList\Implementation_ToList\obj\Debug\net10.0\Implementation_ToList.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_ToList\Implementation_ToList\obj\Debug\net10.0\Implementation_ToList.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_ToList\Implementation_ToList\obj\Debug\net10.0\Implementation_ToList.dll
+C:\Users\m.g\Desktop\Implementation_ToList\Implementation_ToList\obj\Debug\net10.0\refint\Implementation_ToList.dll
+C:\Users\m.g\Desktop\Implementation_ToList\Implementation_ToList\obj\Debug\net10.0\Implementation_ToList.pdb
+C:\Users\m.g\Desktop\Implementation_ToList\Implementation_ToList\obj\Debug\net10.0\Implementation_ToList.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_ToList\Implementation_ToList\obj\Debug\net10.0\ref\Implementation_ToList.dll
