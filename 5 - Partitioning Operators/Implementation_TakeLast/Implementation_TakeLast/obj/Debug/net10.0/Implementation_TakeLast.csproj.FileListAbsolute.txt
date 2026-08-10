@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_TakeLast\Implementation_TakeLast\bin\Debug\net10.0\Implementation_TakeLast.exe
+C:\Users\m.g\Desktop\Implementation_TakeLast\Implementation_TakeLast\bin\Debug\net10.0\Implementation_TakeLast.deps.json
+C:\Users\m.g\Desktop\Implementation_TakeLast\Implementation_TakeLast\bin\Debug\net10.0\Implementation_TakeLast.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_TakeLast\Implementation_TakeLast\bin\Debug\net10.0\Implementation_TakeLast.dll
+C:\Users\m.g\Desktop\Implementation_TakeLast\Implementation_TakeLast\bin\Debug\net10.0\Implementation_TakeLast.pdb
+C:\Users\m.g\Desktop\Implementation_TakeLast\Implementation_TakeLast\obj\Debug\net10.0\Implementation_TakeLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_TakeLast\Implementation_TakeLast\obj\Debug\net10.0\Implementation_TakeLast.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_TakeLast\Implementation_TakeLast\obj\Debug\net10.0\Implementation_TakeLast.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_TakeLast\Implementation_TakeLast\obj\Debug\net10.0\Implementation_TakeLast.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_TakeLast\Implementation_TakeLast\obj\Debug\net10.0\Implementation_TakeLast.dll
+C:\Users\m.g\Desktop\Implementation_TakeLast\Implementation_TakeLast\obj\Debug\net10.0\refint\Implementation_TakeLast.dll
+C:\Users\m.g\Desktop\Implementation_TakeLast\Implementation_TakeLast\obj\Debug\net10.0\Implementation_TakeLast.pdb
+C:\Users\m.g\Desktop\Implementation_TakeLast\Implementation_TakeLast\obj\Debug\net10.0\Implementation_TakeLast.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_TakeLast\Implementation_TakeLast\obj\Debug\net10.0\ref\Implementation_TakeLast.dll

@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_TakeWhile\Implementation_TakeWhile\bin\Debug\net10.0\Implementation_TakeWhile.exe
+C:\Users\m.g\Desktop\Implementation_TakeWhile\Implementation_TakeWhile\bin\Debug\net10.0\Implementation_TakeWhile.deps.json
+C:\Users\m.g\Desktop\Implementation_TakeWhile\Implementation_TakeWhile\bin\Debug\net10.0\Implementation_TakeWhile.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_TakeWhile\Implementation_TakeWhile\bin\Debug\net10.0\Implementation_TakeWhile.dll
+C:\Users\m.g\Desktop\Implementation_TakeWhile\Implementation_TakeWhile\bin\Debug\net10.0\Implementation_TakeWhile.pdb
+C:\Users\m.g\Desktop\Implementation_TakeWhile\Implementation_TakeWhile\obj\Debug\net10.0\Implementation_TakeWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_TakeWhile\Implementation_TakeWhile\obj\Debug\net10.0\Implementation_TakeWhile.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_TakeWhile\Implementation_TakeWhile\obj\Debug\net10.0\Implementation_TakeWhile.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_TakeWhile\Implementation_TakeWhile\obj\Debug\net10.0\Implementation_TakeWhile.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_TakeWhile\Implementation_TakeWhile\obj\Debug\net10.0\Implementation_TakeWhile.dll
+C:\Users\m.g\Desktop\Implementation_TakeWhile\Implementation_TakeWhile\obj\Debug\net10.0\refint\Implementation_TakeWhile.dll
+C:\Users\m.g\Desktop\Implementation_TakeWhile\Implementation_TakeWhile\obj\Debug\net10.0\Implementation_TakeWhile.pdb
+C:\Users\m.g\Desktop\Implementation_TakeWhile\Implementation_TakeWhile\obj\Debug\net10.0\Implementation_TakeWhile.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_TakeWhile\Implementation_TakeWhile\obj\Debug\net10.0\ref\Implementation_TakeWhile.dll
