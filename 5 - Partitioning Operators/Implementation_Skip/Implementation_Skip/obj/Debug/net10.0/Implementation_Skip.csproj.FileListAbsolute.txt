@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_Skip\Implementation_Skip\bin\Debug\net10.0\Implementation_Skip.exe
+C:\Users\m.g\Desktop\Implementation_Skip\Implementation_Skip\bin\Debug\net10.0\Implementation_Skip.deps.json
+C:\Users\m.g\Desktop\Implementation_Skip\Implementation_Skip\bin\Debug\net10.0\Implementation_Skip.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_Skip\Implementation_Skip\bin\Debug\net10.0\Implementation_Skip.dll
+C:\Users\m.g\Desktop\Implementation_Skip\Implementation_Skip\bin\Debug\net10.0\Implementation_Skip.pdb
+C:\Users\m.g\Desktop\Implementation_Skip\Implementation_Skip\obj\Debug\net10.0\Implementation_Skip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_Skip\Implementation_Skip\obj\Debug\net10.0\Implementation_Skip.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_Skip\Implementation_Skip\obj\Debug\net10.0\Implementation_Skip.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_Skip\Implementation_Skip\obj\Debug\net10.0\Implementation_Skip.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_Skip\Implementation_Skip\obj\Debug\net10.0\Implementation_Skip.dll
+C:\Users\m.g\Desktop\Implementation_Skip\Implementation_Skip\obj\Debug\net10.0\refint\Implementation_Skip.dll
+C:\Users\m.g\Desktop\Implementation_Skip\Implementation_Skip\obj\Debug\net10.0\Implementation_Skip.pdb
+C:\Users\m.g\Desktop\Implementation_Skip\Implementation_Skip\obj\Debug\net10.0\Implementation_Skip.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_Skip\Implementation_Skip\obj\Debug\net10.0\ref\Implementation_Skip.dll

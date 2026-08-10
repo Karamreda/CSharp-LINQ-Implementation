@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_Take\Implementation_Take\bin\Debug\net10.0\Implementation_Take.exe
+C:\Users\m.g\Desktop\Implementation_Take\Implementation_Take\bin\Debug\net10.0\Implementation_Take.deps.json
+C:\Users\m.g\Desktop\Implementation_Take\Implementation_Take\bin\Debug\net10.0\Implementation_Take.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_Take\Implementation_Take\bin\Debug\net10.0\Implementation_Take.dll
+C:\Users\m.g\Desktop\Implementation_Take\Implementation_Take\bin\Debug\net10.0\Implementation_Take.pdb
+C:\Users\m.g\Desktop\Implementation_Take\Implementation_Take\obj\Debug\net10.0\Implementation_Take.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_Take\Implementation_Take\obj\Debug\net10.0\Implementation_Take.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_Take\Implementation_Take\obj\Debug\net10.0\Implementation_Take.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_Take\Implementation_Take\obj\Debug\net10.0\Implementation_Take.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_Take\Implementation_Take\obj\Debug\net10.0\Implementation_Take.dll
+C:\Users\m.g\Desktop\Implementation_Take\Implementation_Take\obj\Debug\net10.0\refint\Implementation_Take.dll
+C:\Users\m.g\Desktop\Implementation_Take\Implementation_Take\obj\Debug\net10.0\Implementation_Take.pdb
+C:\Users\m.g\Desktop\Implementation_Take\Implementation_Take\obj\Debug\net10.0\Implementation_Take.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_Take\Implementation_Take\obj\Debug\net10.0\ref\Implementation_Take.dll
