@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_SkipLast\Implementation_SkipLast\bin\Debug\net10.0\Implementation_SkipLast.exe
+C:\Users\m.g\Desktop\Implementation_SkipLast\Implementation_SkipLast\bin\Debug\net10.0\Implementation_SkipLast.deps.json
+C:\Users\m.g\Desktop\Implementation_SkipLast\Implementation_SkipLast\bin\Debug\net10.0\Implementation_SkipLast.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_SkipLast\Implementation_SkipLast\bin\Debug\net10.0\Implementation_SkipLast.dll
+C:\Users\m.g\Desktop\Implementation_SkipLast\Implementation_SkipLast\bin\Debug\net10.0\Implementation_SkipLast.pdb
+C:\Users\m.g\Desktop\Implementation_SkipLast\Implementation_SkipLast\obj\Debug\net10.0\Implementation_SkipLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_SkipLast\Implementation_SkipLast\obj\Debug\net10.0\Implementation_SkipLast.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_SkipLast\Implementation_SkipLast\obj\Debug\net10.0\Implementation_SkipLast.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_SkipLast\Implementation_SkipLast\obj\Debug\net10.0\Implementation_SkipLast.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_SkipLast\Implementation_SkipLast\obj\Debug\net10.0\Implementation_SkipLast.dll
+C:\Users\m.g\Desktop\Implementation_SkipLast\Implementation_SkipLast\obj\Debug\net10.0\refint\Implementation_SkipLast.dll
+C:\Users\m.g\Desktop\Implementation_SkipLast\Implementation_SkipLast\obj\Debug\net10.0\Implementation_SkipLast.pdb
+C:\Users\m.g\Desktop\Implementation_SkipLast\Implementation_SkipLast\obj\Debug\net10.0\Implementation_SkipLast.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_SkipLast\Implementation_SkipLast\obj\Debug\net10.0\ref\Implementation_SkipLast.dll
