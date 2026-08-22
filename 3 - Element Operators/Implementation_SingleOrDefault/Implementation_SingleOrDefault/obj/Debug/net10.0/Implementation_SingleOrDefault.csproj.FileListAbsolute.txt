@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_SingleOrDefault\Implementation_SingleOrDefault\bin\Debug\net10.0\Implementation_SingleOrDefault.exe
+C:\Users\m.g\Desktop\Implementation_SingleOrDefault\Implementation_SingleOrDefault\bin\Debug\net10.0\Implementation_SingleOrDefault.deps.json
+C:\Users\m.g\Desktop\Implementation_SingleOrDefault\Implementation_SingleOrDefault\bin\Debug\net10.0\Implementation_SingleOrDefault.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_SingleOrDefault\Implementation_SingleOrDefault\bin\Debug\net10.0\Implementation_SingleOrDefault.dll
+C:\Users\m.g\Desktop\Implementation_SingleOrDefault\Implementation_SingleOrDefault\bin\Debug\net10.0\Implementation_SingleOrDefault.pdb
+C:\Users\m.g\Desktop\Implementation_SingleOrDefault\Implementation_SingleOrDefault\obj\Debug\net10.0\Implementation_SingleOrDefault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_SingleOrDefault\Implementation_SingleOrDefault\obj\Debug\net10.0\Implementation_SingleOrDefault.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_SingleOrDefault\Implementation_SingleOrDefault\obj\Debug\net10.0\Implementation_SingleOrDefault.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_SingleOrDefault\Implementation_SingleOrDefault\obj\Debug\net10.0\Implementation_SingleOrDefault.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_SingleOrDefault\Implementation_SingleOrDefault\obj\Debug\net10.0\Implementation_SingleOrDefault.dll
+C:\Users\m.g\Desktop\Implementation_SingleOrDefault\Implementation_SingleOrDefault\obj\Debug\net10.0\refint\Implementation_SingleOrDefault.dll
+C:\Users\m.g\Desktop\Implementation_SingleOrDefault\Implementation_SingleOrDefault\obj\Debug\net10.0\Implementation_SingleOrDefault.pdb
+C:\Users\m.g\Desktop\Implementation_SingleOrDefault\Implementation_SingleOrDefault\obj\Debug\net10.0\Implementation_SingleOrDefault.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_SingleOrDefault\Implementation_SingleOrDefault\obj\Debug\net10.0\ref\Implementation_SingleOrDefault.dll
