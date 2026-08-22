@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_FirstOrDefult\Implementation_FirstOrDefult\bin\Debug\net10.0\Implementation_FirstOrDefult.exe
+C:\Users\m.g\Desktop\Implementation_FirstOrDefult\Implementation_FirstOrDefult\bin\Debug\net10.0\Implementation_FirstOrDefult.deps.json
+C:\Users\m.g\Desktop\Implementation_FirstOrDefult\Implementation_FirstOrDefult\bin\Debug\net10.0\Implementation_FirstOrDefult.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_FirstOrDefult\Implementation_FirstOrDefult\bin\Debug\net10.0\Implementation_FirstOrDefult.dll
+C:\Users\m.g\Desktop\Implementation_FirstOrDefult\Implementation_FirstOrDefult\bin\Debug\net10.0\Implementation_FirstOrDefult.pdb
+C:\Users\m.g\Desktop\Implementation_FirstOrDefult\Implementation_FirstOrDefult\obj\Debug\net10.0\Implementation_FirstOrDefult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_FirstOrDefult\Implementation_FirstOrDefult\obj\Debug\net10.0\Implementation_FirstOrDefult.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_FirstOrDefult\Implementation_FirstOrDefult\obj\Debug\net10.0\Implementation_FirstOrDefult.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_FirstOrDefult\Implementation_FirstOrDefult\obj\Debug\net10.0\Implementation_FirstOrDefult.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_FirstOrDefult\Implementation_FirstOrDefult\obj\Debug\net10.0\Implementation_FirstOrDefult.dll
+C:\Users\m.g\Desktop\Implementation_FirstOrDefult\Implementation_FirstOrDefult\obj\Debug\net10.0\refint\Implementation_FirstOrDefult.dll
+C:\Users\m.g\Desktop\Implementation_FirstOrDefult\Implementation_FirstOrDefult\obj\Debug\net10.0\Implementation_FirstOrDefult.pdb
+C:\Users\m.g\Desktop\Implementation_FirstOrDefult\Implementation_FirstOrDefult\obj\Debug\net10.0\Implementation_FirstOrDefult.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_FirstOrDefult\Implementation_FirstOrDefult\obj\Debug\net10.0\ref\Implementation_FirstOrDefult.dll
