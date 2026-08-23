@@ -1,0 +1,14 @@
+C:\Users\m.g\Desktop\Implementation_Distinct\Implementation_Distinct\bin\Debug\net10.0\Implementation_Distinct.exe
+C:\Users\m.g\Desktop\Implementation_Distinct\Implementation_Distinct\bin\Debug\net10.0\Implementation_Distinct.deps.json
+C:\Users\m.g\Desktop\Implementation_Distinct\Implementation_Distinct\bin\Debug\net10.0\Implementation_Distinct.runtimeconfig.json
+C:\Users\m.g\Desktop\Implementation_Distinct\Implementation_Distinct\bin\Debug\net10.0\Implementation_Distinct.dll
+C:\Users\m.g\Desktop\Implementation_Distinct\Implementation_Distinct\bin\Debug\net10.0\Implementation_Distinct.pdb
+C:\Users\m.g\Desktop\Implementation_Distinct\Implementation_Distinct\obj\Debug\net10.0\Implementation_Distinct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.g\Desktop\Implementation_Distinct\Implementation_Distinct\obj\Debug\net10.0\Implementation_Distinct.AssemblyInfoInputs.cache
+C:\Users\m.g\Desktop\Implementation_Distinct\Implementation_Distinct\obj\Debug\net10.0\Implementation_Distinct.AssemblyInfo.cs
+C:\Users\m.g\Desktop\Implementation_Distinct\Implementation_Distinct\obj\Debug\net10.0\Implementation_Distinct.csproj.CoreCompileInputs.cache
+C:\Users\m.g\Desktop\Implementation_Distinct\Implementation_Distinct\obj\Debug\net10.0\Implementation_Distinct.dll
+C:\Users\m.g\Desktop\Implementation_Distinct\Implementation_Distinct\obj\Debug\net10.0\refint\Implementation_Distinct.dll
+C:\Users\m.g\Desktop\Implementation_Distinct\Implementation_Distinct\obj\Debug\net10.0\Implementation_Distinct.pdb
+C:\Users\m.g\Desktop\Implementation_Distinct\Implementation_Distinct\obj\Debug\net10.0\Implementation_Distinct.genruntimeconfig.cache
+C:\Users\m.g\Desktop\Implementation_Distinct\Implementation_Distinct\obj\Debug\net10.0\ref\Implementation_Distinct.dll
